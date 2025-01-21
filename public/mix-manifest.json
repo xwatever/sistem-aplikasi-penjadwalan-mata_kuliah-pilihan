@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/dist/datatablejs/License.txt": "/dist/datatablejs/License.txt",
+    "/dist/datatablejs/Readme.md": "/dist/datatablejs/Readme.md",
+    "/dist/datatablejs/package.json": "/dist/datatablejs/package.json",
+    "/dist/vue3-datetimepicker/LICENSE": "/dist/vue3-datetimepicker/LICENSE",
+    "/dist/vue3-datetimepicker/README.md": "/dist/vue3-datetimepicker/README.md",
+    "/dist/vue3-datetimepicker/index.d.ts": "/dist/vue3-datetimepicker/index.d.ts",
+    "/dist/vue3-datetimepicker/package.json": "/dist/vue3-datetimepicker/package.json"
+}

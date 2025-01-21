@@ -1,0 +1,74 @@
+.dp__time_col {
+    padding: 0 0.25em !important;
+    font-size: 1.35em !important;
+}
+
+.dp__action_row {
+    padding: 0.25em !important;
+}
+
+.dp__input {
+    font-size: 0.85em !important;
+}
+
+.dp__input_icons {
+    width: 0.9em !important;
+    height: 0.9em !important;
+}
+
+.dp__inc_dec_button svg {
+    width: 1em !important;
+    height: 1em !important;
+}
+
+.dp__overlay_action {
+    position: relative !important;
+}
+
+.dp__button {
+    position: relative !important;
+    height: 32px !important;
+}
+
+.dp__calendar {
+    overflow-y: auto;
+}
+
+.dp__calendar_wrapper {
+    /* height: 120px; */
+}
+
+.dp__cell_inner {
+    width: 32px !important;
+    height: 32px !important;
+}
+
+.dp__calendar_header_item {
+    width: 32px !important;
+    height: 32px !important;
+}
+
+.dp__menu {
+    position: fixed !important;
+    top: 7.5em !important;
+}
+
+.dp__month_year_select {
+    height: 32px !important;
+}
+
+.dp__month_year_row {
+    height: 32px !important;
+}
+
+.dp_calendar_fixed {
+    height: 120px !important;
+}
+
+.dp__input {
+    padding: 0.5em 2.6em !important;
+    margin-top: 0.2em !important;
+    border-color: #5b5d5c !important;
+    border-radius: 5px !important;
+    border-width: 2px !important;
+}

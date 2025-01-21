@@ -1,0 +1,111 @@
+#myTable {
+    table-layout: fixed;
+}
+
+td {
+    word-wrap: break-word !important;
+}
+
+table.dataTable th, table.dataTable td {
+    background-color: #3d6cbd !important;
+    color: white !important;
+    border-right: 1px solid #fff !important;
+    border-left: 1px solid #fff !important;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+    background-color: #1288f5 !important;
+    border-bottom: 1px solid #fff !important;
+}
+
+table.dataTable {
+    border: 2px solid #5b5d5c !important;
+    border-radius: 5px;
+}
+
+.dataTables_wrapper .dataTables_length select, .dataTables_wrapper .dataTables_filter input {
+    border: 1.5px solid #5b5d5c !important;
+}
+
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter {
+    margin-bottom: 1em;
+}
+
+.dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+    margin-top: 1em;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+table.dataTable>tbody>tr.child ul.dtr-details {
+    width: 100% !important;
+}
+
+table.dataTable>tbody>tr.child ul.dtr-details li span.dtr-data {
+    float: right;
+}
+
+table.dataTable>tbody>tr.child ul.dtr-details>li {
+    padding: 0.9em 0.5em !important;
+}
+
+table.dataTable>tbody>tr.child span.dtr-title {
+    font-weight: bolder !important;
+}
+
+table.dataTable thead th, table.dataTable tfoot th {
+    font-weight: bolder !important;
+}
+
+.button-read {
+    display: inline;
+    cursor: pointer;
+    width: 1em;
+    padding: 0.2em 0.35em;
+    border: 2px solid #fff !important;
+    border-radius: 4px;
+    background-color: #f7f034;
+}
+
+.button-edit {
+    display: inline;
+    cursor: pointer;
+    width: 1em;
+    padding: 0.2em 0.35em;
+    border: 2px solid #fff !important;
+    border-radius: 4px;
+    background-color: #3459f7;
+}
+
+.button-delete {
+    display: inline;
+    cursor: pointer;
+    width: 1em;
+    padding: 0.2em 0.35em;
+    border: 2px solid #fff !important;
+    border-radius: 4px;
+    background-color: #f73434;
+}
+
+.button-reply {
+    display: inline;
+    cursor: pointer;
+    width: 1em;
+    padding: 0.2em 0.35em;
+    border: 2px solid #fff !important;
+    border-radius: 4px;
+    /* background-color: #fbd619; */
+}
+
+.class-view {
+    cursor: pointer;
+}
+
+table.dataTable>tbody>tr.child ul.dtr-details>li {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
